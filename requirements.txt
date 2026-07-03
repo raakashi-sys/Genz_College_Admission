@@ -1,5 +1,6 @@
-streamlit
+streamlit>=1.46
 pandas
-scikit-learn
+numpy
+scikit-learn>=1.7
 joblib
 HistGradientBoostingClassifier
